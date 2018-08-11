@@ -1,0 +1,16 @@
+D:\Programacion\Producto 3\Programa_empleados\Programa_empleados\bin\Debug\Programa_empleados.exe.config
+D:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.exe
+D:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.pdb
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.csprojAssemblyReference.cache
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.Form1.resources
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.Properties.Resources.resources
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.csproj.GenerateResource.cache
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.csproj.CoreCompileInputs.cache
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\bin\Debug\Programa_empleados.exe.config
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\bin\Debug\Programa_empleados.exe
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\bin\Debug\Programa_empleados.pdb
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\bin\Debug\C_empleado.dll
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\bin\Debug\C_empleado.pdb
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.csproj.CopyComplete
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.exe
+E:\Programacion\Producto 3\Programa_empleados\Programa_empleados\obj\Debug\Programa_empleados.pdb

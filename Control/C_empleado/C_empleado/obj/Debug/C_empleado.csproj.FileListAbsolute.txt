@@ -1,0 +1,6 @@
+E:\Programacion\Producto 3\Control\C_empleado\C_empleado\bin\Debug\C_empleado.dll
+E:\Programacion\Producto 3\Control\C_empleado\C_empleado\bin\Debug\C_empleado.pdb
+E:\Programacion\Producto 3\Control\C_empleado\C_empleado\obj\Debug\C_empleado.csprojAssemblyReference.cache
+E:\Programacion\Producto 3\Control\C_empleado\C_empleado\obj\Debug\C_empleado.csproj.CoreCompileInputs.cache
+E:\Programacion\Producto 3\Control\C_empleado\C_empleado\obj\Debug\C_empleado.dll
+E:\Programacion\Producto 3\Control\C_empleado\C_empleado\obj\Debug\C_empleado.pdb
